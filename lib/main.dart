@@ -2,7 +2,7 @@ import 'package:floatingbutton/ui.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-void main(List<String> args) => runApp(
+void main() => runApp(
       MaterialApp(
         debugShowCheckedModeBanner: false,
         themeMode: ThemeMode.system,
